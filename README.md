@@ -1,5 +1,6 @@
 <h1 align="center">Chabi Typing App</h1>
-![image](https://github.com/ADITYA-PRATAP/ChabiProject/assets/72655723/58d893fe-697f-4bdc-85e6-c752533886fd)
+![chabi](https://github.com/ADITYA-PRATAP/ChabiProject/assets/72655723/f09b6668-2497-4457-8c1b-fcc53dc84d3f)
+
 
 
 
