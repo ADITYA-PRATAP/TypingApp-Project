@@ -1,5 +1,5 @@
 <h1 align="center">Chabi Typing App</h1>
-![chabi](https://github.com/ADITYA-PRATAP/ChabiProject/assets/72655723/f09b6668-2497-4457-8c1b-fcc53dc84d3f)
+
 
 
 
@@ -78,7 +78,4 @@ To run the Chabi Typing App locally, follow these steps:
 - This function plays the provided audio file.
 - It resets the audio to the beginning and starts playing.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
+![chabi](https://github.com/ADITYA-PRATAP/ChabiProject/assets/72655723/f09b6668-2497-4457-8c1b-fcc53dc84d3f)
