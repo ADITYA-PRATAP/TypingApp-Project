@@ -1,4 +1,6 @@
-<h1 align="center">Chaabi Typing App</h1>
+<h1 align="center">Chabi Typing App</h1>
+![image](https://github.com/ADITYA-PRATAP/ChabiProject/assets/72655723/58d893fe-697f-4bdc-85e6-c752533886fd)
+
 
 
 
@@ -34,8 +36,8 @@
 
 To run the Chabi Typing App locally, follow these steps:
 
-1. Clone the repository: ``
-2. Navigate to the project directory: `cd typing-app`
+1. Clone the repository: `git clone https://github.com/ADITYA-PRATAP/ChabiProject.git`
+2. Navigate to the project directory: `cd ChabiProject`
 3. Install the dependencies: `npm install`
 
 ## Usage
@@ -48,9 +50,34 @@ To run the Chabi Typing App locally, follow these steps:
 6. After the timer ends, your accuracy percentage will be displayed.
 7. Click the "Reset" button to start a new typing session.
 
+## Function Explanations
 
+### `handleKeyPress(event)`
 
+- This function is called when a key is pressed while the typing app is running.
+- It compares the pressed key with the current key displayed on the screen.
+- If the pressed key matches the current key, the correct key presses counter is incremented, and a correct sound effect is played.
+- If the pressed key does not match the current key, an incorrect sound effect is played.
+- A new random key is generated and set as the current key for the next typing challenge.
 
----
+### `handleStart()`
 
-**Note:** This README template provides a basic structure and content for your Chaabi Typing App. Feel free to customize it according to your specific needs and add additional sections such as Technologies Used, Roadmap, Contribution Guidelines, etc.
+- This function is called when the "Start" button is clicked.
+- It initializes the typing app by setting the initial values for key presses, correct key presses, accuracy, timer, and the current key.
+- The timer starts counting down from 5 minutes.
+- The typing input is enabled, and the cursor is focused on the input field.
+
+### `calculateAccuracy()`
+
+- This function calculates the accuracy percentage based on the total key presses and correct key presses.
+- The accuracy percentage is then set in the state.
+
+### `playSound(audio)`
+
+- This function plays the provided audio file.
+- It resets the audio to the beginning and starts playing.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
