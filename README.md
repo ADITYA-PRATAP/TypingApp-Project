@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+<h1 align="center">Chabi Typing App</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <img src="typing-app-screenshot.png" alt="Chabi Typing App Screenshot" width="600" />
+</div>
 
-## Available Scripts
+<p align="center">
+  <strong>Improve your typing speed and accuracy with Chabi Typing App!</strong>
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#demo">Demo</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#license">License</a> •
+  <a href="#credits">Credits</a>
+</p>
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Key Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Test your typing skills by typing random keys displayed on the screen.
+- Measure your typing accuracy and total key presses.
+- Time-based challenge with a 5-minute countdown timer.
+- Audio feedback for correct and incorrect key presses.
+- Responsive design for a seamless experience on different devices.
+- Simple and intuitive user interface.
 
-### `npm test`
+## Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[View Demo](https://your-demo-url.com)
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To run the Chabi Typing App locally, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository: `git clone https://github.com/your-username/typing-app.git`
+2. Navigate to the project directory: `cd typing-app`
+3. Install the dependencies: `npm install`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage
 
-### `npm run eject`
+1. Start the typing app by running: `npm start`
+2. Access the app in your browser at: `http://localhost:3000`
+3. Click the "Start" button to begin the typing challenge.
+4. Type the displayed keys accurately and swiftly.
+5. Monitor your total key presses, accuracy, and remaining time.
+6. After the timer ends, your accuracy percentage will be displayed.
+7. Click the "Reset" button to start a new typing session.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## License
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project is licensed under the [MIT License](LICENSE).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Credits
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Developed by [Your Company Name](https://your-company-website.com)
+- Sound effects by [SoundBible](https://www.soundbible.com)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Note:** This README template provides a basic structure and content for your Chabi Typing App. Feel free to customize it according to your specific needs and add additional sections such as Technologies Used, Roadmap, Contribution Guidelines, etc.
