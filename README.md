@@ -1,8 +1,6 @@
-<h1 align="center">Chabi Typing App</h1>
+<h1 align="center">Chaabi Typing App</h1>
 
-<div align="center">
-  <img src="typing-app-screenshot.png" alt="Chabi Typing App Screenshot" width="600" />
-</div>
+
 
 <p align="center">
   <strong>Improve your typing speed and accuracy with Chabi Typing App!</strong>
@@ -30,13 +28,13 @@
 
 ## Demo
 
-[View Demo](https://your-demo-url.com)
+[View Demo](https://6484bb5c42bbea0a153c9b49--loquacious-snickerdoodle-d374bd.netlify.app/)
 
 ## Installation
 
 To run the Chabi Typing App locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/typing-app.git`
+1. Clone the repository: ``
 2. Navigate to the project directory: `cd typing-app`
 3. Install the dependencies: `npm install`
 
@@ -50,15 +48,9 @@ To run the Chabi Typing App locally, follow these steps:
 6. After the timer ends, your accuracy percentage will be displayed.
 7. Click the "Reset" button to start a new typing session.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
-## Credits
-
-- Developed by [Your Company Name](https://your-company-website.com)
-- Sound effects by [SoundBible](https://www.soundbible.com)
 
 ---
 
-**Note:** This README template provides a basic structure and content for your Chabi Typing App. Feel free to customize it according to your specific needs and add additional sections such as Technologies Used, Roadmap, Contribution Guidelines, etc.
+**Note:** This README template provides a basic structure and content for your Chaabi Typing App. Feel free to customize it according to your specific needs and add additional sections such as Technologies Used, Roadmap, Contribution Guidelines, etc.
