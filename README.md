@@ -1,4 +1,4 @@
-<h1 align="center">Chabi Typing App</h1>
+<h1 align="center">Typing speed App</h1>
 
 
 
